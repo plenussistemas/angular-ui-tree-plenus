@@ -1,0 +1,17 @@
+{
+  "name": "angular-ui-tree-plenus",
+  "homepage": "https://github.com/plenussistemas/angular-ui-tree-plenus",
+  "authors": [
+    "rafaelbaiolim <rafaelbaiolim@email.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
