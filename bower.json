@@ -14,5 +14,11 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "install": {
+    "path": {
+      "css": "bower_components/angular-ui-tree/dist",
+      "js": "bower_components/angular-ui-tree/dist"
+    }
+  }
 }
